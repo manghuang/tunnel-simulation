@@ -8,10 +8,10 @@
     name="suidaos">
     <inertial>
       <origin
-        xyz="-55.433 -13.801 239.09"
+        xyz="0 0 0"
         rpy="0 0 0" />
       <mass
-        value="40275000" />
+        value="40" />
       <inertia
         ixx="183460000000"
         ixy="10911000"
